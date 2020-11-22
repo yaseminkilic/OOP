@@ -1,0 +1,22 @@
+Istanbul
+Ankara
+Bursa
+Izmir
+Aydin
+Rize
+Corum
+end
+Ankara Istanbul 600
+Istanbul Bursa 100
+Ankara Bursa 800
+Izmir Ankara 750
+Bursa Izmir 350
+Corum Ankara 250
+Aydin Ankara 500
+Aydin Izmir 400
+Corum Aydin 250
+Corum Izmir 550
+Bursa Corum 90
+Bursa Rize 660
+end
+Corum Ankara Rize

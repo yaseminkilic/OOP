@@ -1,0 +1,39 @@
+
+Output.txt
+----------------------------
+
+Wolverine
+2013
+Action
+James Mangold
+90
+Hugh Jackman , Tao Okamoto , Brian Tee , Rila Fukushima
+
+The Usual Suspects
+1995
+Crime
+Bryan Singer
+60
+Kevin Spacey , Gabriel Byrne , Chazz Palminteri
+
+The Hunger Games
+2012
+Science-Fiction
+Gary Ross
+78
+Jennifer Lawrence, Josh Hutcherson, Liam Hemsworth, Woody Harrelson, Elizabeth Banks, Lenny Kravitz, Stanley Tucci
+
+Secret Garden
+2010
+Romance-Comedy,Fantasy,Action
+Shin Woo-chul, Kwon Hyuk-chan
+84
+Ha Ji-won, Hyun Bin, Yoon Sang-hyun, Kim Sa-rang
+
+The 100
+2013
+Action,Adventure,Dystopian,Science-Fiction
+Jason Rothenberg
+94
+Jason Rothenberg,Starring,Eliza Taylor,Paige Turco, Thomas McDonell,Eli Goree,Richard Harmon,Marie Avgeropoulos,Bob Morley,Kelly Hu
+

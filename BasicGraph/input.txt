@@ -1,0 +1,13 @@
+Ankara
+Istanbul
+Izmir
+Manisa
+end
+Ankara Istanbul 300
+Ankara Izmir 800
+Istanbul Manisa 1100
+Istanbul Izmir 400
+Izmir Manisa 700
+Manisa Ankara 400
+end
+Ankara Izmir Manisa

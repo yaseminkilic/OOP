@@ -1,0 +1,4 @@
+Ankara  0
+Istanbul 300
+Izmir 700
+Manisa 1400
