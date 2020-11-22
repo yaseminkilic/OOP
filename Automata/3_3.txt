@@ -1,0 +1,9 @@
+Q={s,p,r,m,f,y} E={0,1} T={Z,T} Z=Z S=s F={f} 
+D={s,0,Z-p,Z,
+p,0,Z-r,T,
+r,0,T-p,T,
+p,0,T-r,TT,
+r,1,T-m,T,
+m,1,T-y,e,
+y,1,T-m,T,
+y,e,Z-f,e} 000111
